@@ -16,3 +16,8 @@ Entregables (en un único wetransfer):
 1. Vídeo mostrando e interpretando los resultados (máximo 2 minutos)
 
 ¡Ánimos y gracias por participar en las prácticas!
+
+**SOLUCION**
+## 🎥 Demostración en video
+[![Ver en YouTube](https://img.youtube.com/vi/hkDaiZUoAgA/maxresdefault.jpg)](https://youtu.be/hkDaiZUoAgA)
+📌 *Haz clic en la imagen para abrir el video en una nueva pestaña.*
